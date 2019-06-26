@@ -1,0 +1,2 @@
+= deployment-docker
+Repository to deploy docker with weave-net on bare-metal or virtual machines.
